@@ -1,4 +1,4 @@
-# Siddharth Rao Potukuchi
+# Siddharth Rao 
 
 **AI Solutions Architect · TOGAF EA · Google MLE · Google Cloud Architect · SAFe SA + SPC**
 
@@ -8,7 +8,7 @@ I design enterprise AI systems end-to-end — from regulatory obligation and bus
 
 ## The Autonomous Enterprise Suite
 
-Most enterprise AI projects solve a local problem. An agent here. A prediction model there. The Autonomous Enterprise Suite is an answer to a different question: **what does it look like when you architect AI at the enterprise level** — from regulatory obligation through agent orchestration through ML engineering through infrastructure, with a single anchor client and a shared governance layer that spans every domain?
+Most enterprise AI projects solve a local problem. An agent here. A prediction model there. The Autonomous Enterprise Suite seeks to answer a different question: **what does it look like when you architect AI at the enterprise level** — from regulatory obligation through agent orchestration through ML engineering through infrastructure, with a single anchor client and a shared governance layer that spans every domain?
 
 The Suite is four domain-specific enterprise AI platforms — commercial, financial, procurement, operations — running on a shared GCP data fabric, governed by a unified compliance posture, and surfaced through a cross-domain executive layer.
 
